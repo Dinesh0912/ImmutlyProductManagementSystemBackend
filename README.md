@@ -53,3 +53,6 @@ Before getting started, ensure you have the following installed:
 
 The Java service should now be running.
 
+API Testing:
+![Screenshot (508)](https://github.com/user-attachments/assets/4d60d341-9b71-4bc2-ac25-b1fc581c5248)
+
