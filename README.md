@@ -55,4 +55,19 @@ The Java service should now be running.
 
 API Testing:
 ![Screenshot (508)](https://github.com/user-attachments/assets/4d60d341-9b71-4bc2-ac25-b1fc581c5248)
+![Screenshot (509)](https://github.com/user-attachments/assets/db131d45-bbd3-457e-a990-b26a23dca47d)
+![Screenshot (510)](https://github.com/user-attachments/assets/0d09142b-2556-429f-a84b-9efe4356a86a)
+![Screenshot (511)](https://github.com/user-attachments/assets/ba9e46fc-068b-46a6-ae65-2f4c9ee654c4)
+![Screenshot (512)](https://github.com/user-attachments/assets/fa3b6e8e-f46e-4750-9a23-7ef01200fdc0)
+![Screenshot (513)](https://github.com/user-attachments/assets/ff389984-5c96-4212-aafa-5cad6e2a4127)
+![Screenshot (514)](https://github.com/user-attachments/assets/293fbbd5-a4cd-4cbf-aab1-7de56d412a5d)
+![Screenshot (515)](https://github.com/user-attachments/assets/c9a10358-3c5d-4a0b-b004-f4d9aa8db28d)
+![Screenshot (516)](https://github.com/user-attachments/assets/8c12226e-48b1-48dc-9bba-0e3c6a972916)
+
+
+
+
+
+
+
 
