@@ -1,0 +1,5 @@
+com\example\priceupdateservice\PriceUpdateServiceApplication.class
+com\example\priceupdateservice\service\ProductService.class
+com\example\priceupdateservice\controller\ProductController.class
+com\example\priceupdateservice\model\Product.class
+com\example\priceupdateservice\repository\ProductRepository.class
